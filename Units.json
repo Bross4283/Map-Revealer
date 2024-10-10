@@ -1,8 +1,12 @@
 [
 	{
 		"name": "Map Revealer",
+		"unitType": "Sword",
 		"uniqueTo": "Greece",
+		"strength": 5,
+		"movement": 5,
 		"cost": 1,
-		"uniques": ["[+100] Sight"]
+		"uniques": ["[+100] Sight"],
+		"attackSound": "metalhit"
 	}
 ]
