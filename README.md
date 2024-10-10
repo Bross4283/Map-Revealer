@@ -1,15 +1,1 @@
-This mod adds "Sandbox" to the difficulty.
-
-————————
-credit
-
-
-Developer: paontv
-Developer: saud2410
-
-icon: icooon mono
-
-translator: Prosta4okua 
-translator: HoleHolo 
-translator: chriscr2
-
+This mod adds a free building to Greece. The building reveals the entire map.
