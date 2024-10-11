@@ -1,0 +1,8 @@
+[
+	{
+		"name": "Map Revealer",
+		"uniqueTo": "Greece",
+		"cost": 1,
+		"uniques": ["Reveals the entire map"],
+	}
+]
